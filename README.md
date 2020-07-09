@@ -1,0 +1,1 @@
+A simple student registration admin dashboard in php.
